@@ -22,11 +22,14 @@ title: av-archive
 email: avelinrez@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Av's archive related to bot roleplaying, including bot creation and roleplaying (especially locally).
-domain: av-archive.github.io
-url: https://ar-archive.github.io
-baseurl: /av-archive # the subpath of your site, e.g. /blog
+domain: ""
+url: "https://avelinrez.github.io"
+baseurl: "/av-archive" # the subpath of your site, e.g. /blog
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
+
+# source: docs
+destination: _site
 
 
 # Build settings
