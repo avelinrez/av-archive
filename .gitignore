@@ -1,0 +1,22 @@
+# Jekyll build artifacts
+jekyll-src/_site/
+jekyll-src/.jekyll-cache/
+jekyll-src/.sass-cache/
+jekyll-src/.bundle/
+jekyll-src/vendor/
+
+# Ruby environment files (optional)
+*.gem
+.bundle/
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files and build scripts
+*.log
+*.ps1
+
+# Optional: ignore local config
+.env
