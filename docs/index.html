@@ -41,12 +41,25 @@
     <nav><div>
     <a class="internal-link" href="/av-archive/"><b>av-archive</b></a>
 </div>
+
+
+<nav class="site-nav">
+  <div class="nav-container">
+    <div class="nav-left">
+      <a class="internal-link" href="/av-archive/"><b>av-archive</b></a>
+    </div>
+    <div class="nav-right">
+      <button id="theme-toggle" title="Toggle light/dark mode">🌓</button>
+      <a class="internal-link" href="/av-archive/now">Now</a>
+    </div>
+  </div>
+</nav>
 </nav>
     <div class="wrapper">
       <main><content>
   <h1 id="welcome-traveler">welcome, traveler.</h1>
 
-<p>Wondering why you’re here? Maybe take a quick look at <span style="font-weight: bold"><a href="/av-archive/short-note">short note</a></span> first ;)</p>
+<p>Wondering why you’re here? Maybe take a quick look at this <a href="/av-archive/short-note">short note</a>. As a rule of thumb, any notes I write in this corner will mostly be in WIP state, which means I’ll add or edit things whenever I want.</p>
 
 <h3 id="recently-updated-notes">recently updated notes.</h3>
 
@@ -235,5 +248,22 @@
   document.querySelectorAll('content a').forEach(setupListeners);
 </script>
 
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const storedTheme = localStorage.getItem('theme');
+
+  if (storedTheme) {
+    document.documentElement.setAttribute('data-theme', storedTheme);
+  } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+
+  toggleBtn.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>
   </body>
 </html>

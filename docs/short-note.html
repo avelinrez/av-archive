@@ -7,7 +7,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="worldbuild.  Worlds  Characters  [[Requests]]">
+  <meta name="description" content="worldbuild-related.  Worlds  Characters  [[Requests]]      roleplay-related    SillyTavern">
 
   <meta property="og:site_name" content="av-archive">
 
@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="/av-archive/assets/css/styles.css">
 
   
-  <meta property="og:description" content="worldbuild.  Worlds  Characters  [[Requests]]"/>
+  <meta property="og:description" content="worldbuild-related.  Worlds  Characters  [[Requests]]      roleplay-related    SillyTavern"/>
   
 
   
@@ -25,7 +25,7 @@
   
 
   
-  <meta property="article:published_time" content="2025-06-05T21:36:08+07:00">
+  <meta property="article:published_time" content="2025-06-05T23:18:55+07:00">
   <meta property="article:author" content="https://avelinrez.github.io/">
   
 
@@ -44,6 +44,19 @@
     <nav><div>
     <a class="internal-link" href="/av-archive/"><b>av-archive</b></a>
 </div>
+
+
+<nav class="site-nav">
+  <div class="nav-container">
+    <div class="nav-left">
+      <a class="internal-link" href="/av-archive/"><b>av-archive</b></a>
+    </div>
+    <div class="nav-right">
+      <button id="theme-toggle" title="Toggle light/dark mode">🌓</button>
+      <a class="internal-link" href="/av-archive/now">Now</a>
+    </div>
+  </div>
+</nav>
 </nav>
     <div class="wrapper">
       <main><article>
@@ -57,17 +70,15 @@
 
   <div id="notes-entry-container">
     <content>
-      <h3 id="worldbuild">worldbuild.</h3>
+      <h3 id="worldbuild-related">worldbuild-related.</h3>
 <ul>
   <li><a href="/av-archive/worlds">Worlds</a></li>
   <li><a href="/av-archive/characters">Characters</a></li>
   <li>[[Requests]]</li>
-</ul>
-
-<h3 id="roleplay">roleplay.</h3>
-<ul>
+  <li>
+    <h3 id="roleplay-related">roleplay-related</h3>
+  </li>
   <li><a href="/av-archive/sillytavern">SillyTavern</a></li>
-  <li>[[chat]]</li>
 </ul>
 
 
@@ -235,5 +246,22 @@
   document.querySelectorAll('content a').forEach(setupListeners);
 </script>
 
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const storedTheme = localStorage.getItem('theme');
+
+  if (storedTheme) {
+    document.documentElement.setAttribute('data-theme', storedTheme);
+  } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+
+  toggleBtn.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>
   </body>
 </html>
