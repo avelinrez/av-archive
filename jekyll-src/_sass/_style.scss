@@ -11,6 +11,7 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
+  text-align: justify;
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
@@ -81,10 +82,12 @@ a {
   text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
+
   &:hover {
     color: black !important;
     background: #fffaf1;
   }
+
   &:after {
     position: relative;
     top: -0.5em;
@@ -92,12 +95,16 @@ a {
     content: "↗";
     color: #aaaaaa;
   }
-  &.internal-link:after,
-  &.footnote:after,
-  &.reversefootnote:after {
+
+  /* Automatically hide the arrow on internal links */
+  &[href^="/"]:after,     // relative internal link
+  &[href^="#"]:after,     // anchor within same page
+  &[href^="{{ site.url }}"]:after, // full URL internal link (Jekyll)
+  &[href^="{{ site.baseurl }}"]:after {
     content: "";
   }
 }
+
 
 *:focus {
   background: #ffe8bc !important;

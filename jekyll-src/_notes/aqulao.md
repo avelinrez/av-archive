@@ -1,8 +1,12 @@
 ---
 title: aqulao
+permalink: /aqulao
+last_modified_at: 2025-06-02
+preview: Close-knitted, isolated island where a meteorite fall to the land centuries ago
+backlinks:
+  - /worlds
 ---
-
-<p align="justify">Aqulao, a mysterious island where few centuries ago, a meteorite fall to the land. It was speculated that the meteorite generate a localized magnetic field that scrambles signals, making it impossible for internet waves to travel properly across the island. The shaman believe that the meteorite might emit an unknown energy that disrupts technology and emerge the magical side of the land.</p>
+Aqulao, a mysterious island where few centuries ago, a meteorite fall to the land. It was speculated that the meteorite generate a localized magnetic field that scrambles signals, making it impossible for internet waves to travel properly across the island. The shaman believe that the meteorite might emit an unknown energy that disrupts technology and emerge the magical side of the land.
 
 
 

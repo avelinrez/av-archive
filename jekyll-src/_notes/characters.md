@@ -1,37 +1,57 @@
 ---
 title: characters
+permalink: /characters
+last_modified_at: 2025-06-03
+preview: List of characters by Av
+backlinks:
+  - /short-note
+  - /worlds
 ---
 
-A
-- [[arkane]]
+### a.
+- [Arkäne](/av-archive/arkane)
 - [[Autsa]]
-D
-- [[dain]]
-E
-- [[owain and elowen|Elowen]]
-F
+
+### d.
+- [Dain](/av-archive/dain)
+
+### e.
+- [Elowen](/av-archive/owain&elowen)
+
+### f.
 - [[Fiohr]]
-H
+
+### h.
 - [[Heiva]]
-J
+
+### j.
 - [[Jhutza]]
-K
-- [[Kaltor]] 
-L
-- [[Lahni]]
+
+### k.
+- [Keus](/av-archive/keus)
+
+### l.
+- [Lahni](/av-archive/lahni)
 - [[Leif]]
 - [[Leiza]]
 - [[Lulu]]
-M
-- [[meadr]]
-N
-- [[Niam]]
-O
-- [[owain and elowen|Owain]]
-P
+
+### m.
+- [Meadr](/av-archive/meadr)
+
+### n.
+- [Niam](/av-archive/niam)
+
+### o.
+- [[Obottá]]
+- [Owain](/av-archive/owain&elowen)
+
+### p.
 - [[Piev]] 
-R
+
+### r.
 - [[Razelthar]]
-- [[rhezua]]
-S
+- [Rhezua](/av-archive/rhezua)
+
+### s.
 - [[Szat]]
