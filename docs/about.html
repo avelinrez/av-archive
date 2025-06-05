@@ -38,17 +38,15 @@
 </head>
 
   <body>
-    <nav><nav class="site-nav">
-  <div class="nav-container">
+    <nav>  <div class="nav-container">
     <div class="nav-left">
       <a class="internal-link" href="/av-archive/"><b>av-archive</b></a>
     </div>
     <div class="nav-right">
-      <button id="theme-toggle" title="Toggle light/dark mode">🌓</button>
       <a class="internal-link" href="/av-archive/now">Now</a>
+      <button id="theme-toggle" title="Toggle light/dark mode">🌓</button>
     </div>
   </div>
-</nav>
 </nav>
     <div class="wrapper">
       <main><content>
@@ -75,7 +73,6 @@
 
 </footer>
     </div>
-
     <!-- That file is not particularly elegant. This will need a refactor at some point. -->
 <style>
   content a.internal-link {
@@ -217,6 +214,10 @@
   document.querySelectorAll('content a').forEach(setupListeners);
 </script>
 
+
+
+
+
 <script>
   const toggleBtn = document.getElementById('theme-toggle');
   const storedTheme = localStorage.getItem('theme');
@@ -234,5 +235,8 @@
     localStorage.setItem('theme', newTheme);
   });
 </script>
+
+
+
   </body>
 </html>
