@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "38433aa678d09f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54218db0be93394f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9b22d9ddd1209a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_notes/arkane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "arkane"
+            }
+          },
+          {
+            "id": "b909d0b858f15f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_notes/sillytavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sillytavern"
+            }
+          },
+          {
+            "id": "0107b712e406ea02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_pages/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "3030bb03d1e1a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "jekyll-src/assets/Untitled154_20250604212228.png"
+              },
+              "icon": "lucide-image",
+              "title": "Untitled154_20250604212228"
+            }
+          },
+          {
+            "id": "8fcb9bd58c1c27cc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "jekyll-src/assets/twins20250506190521.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "twins20250506190521"
+            }
+          },
+          {
+            "id": "b05f3e0953baa801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_notes/sillytavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sillytavern"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31f3e7db143d1934",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c4c178878ec64f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7babb2d310c7cf47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "62df6b549c8d4a9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "c756a14e9d6aebd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ca90e0a20a9a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b96d59f4c25018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "01a076e2ce55d4d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "cce999b42b68d2c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cbd886ec49e8bef4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "9a9b22d9ddd1209a",
+  "lastOpenFiles": [
+    "av-archive/jekyll-src/assets/js/theme.js",
+    "av-archive/jekyll-src/assets/css/styles.scss",
+    "av-archive/jekyll-src/_notes/worlds.md",
+    "av-archive/jekyll-src/_notes/sillytavern.md",
+    "av-archive/jekyll-src/_notes/short note.md",
+    "av-archive/jekyll-src/_notes/rhezua.md",
+    "av-archive/jekyll-src/_notes/owain and elowen.md",
+    "av-archive/jekyll-src/_notes/niam.md",
+    "av-archive/jekyll-src/_notes/Mysthva.md",
+    "av-archive/jekyll-src/_notes/meadr.md",
+    "av-archive/jekyll-src/_notes/characters.md",
+    "av-archive/jekyll-src/_notes/lahni.md",
+    "av-archive/jekyll-src/_notes/keus.md",
+    "av-archive/jekyll-src/_notes/dlecv and ylocv.md",
+    "av-archive/jekyll-src/_notes/dain.md",
+    "av-archive/jekyll-src/_notes/arx mysth institute.md",
+    "av-archive/jekyll-src/_notes/arkane.md",
+    "av-archive/jekyll-src/_notes/aqulao.md",
+    "av-archive/jekyll-src/_sass/_style.scss",
+    "av-archive/jekyll-src/_sass/_normalize.scss",
+    "av-archive/jekyll-src/_sass/_code.scss",
+    "av-archive/jekyll-src/_plugins/open_external_links_in_new_tab.rb",
+    "av-archive/jekyll-src/_plugins/markdown-highlighter.rb",
+    "av-archive/jekyll-src/_plugins/last_modified_at_generator.rb",
+    "av-archive/jekyll-src/_plugins/empty_front_matter_note_injector.rb",
+    "av-archive/jekyll-src/_plugins/embed_tweets.rb",
+    "av-archive/jekyll-src/_pages/about.md",
+    "av-archive/jekyll-src/_plugins/bidirectional_links_generator.rb",
+    "av-archive/jekyll-src/_pages/index.md",
+    "av-archive/jekyll-src/assets/Untitled53_20240621083923.png",
+    "av-archive/jekyll-src/assets/Untitled95_20240728102532.png",
+    "av-archive/jekyll-src/assets/Untitled154_20250604212228.png",
+    "av-archive/jekyll-src/assets/Untitled4_20250604192342.png",
+    "av-archive/jekyll-src/assets/Untitled3_20250506190521.png",
+    "av-archive/jekyll-src/assets/Untitled145.png",
+    "av-archive/jekyll-src/assets/twins20250506190521.jpg",
+    "av-archive/jekyll-src/assets/media_490551239640264575_1723737454.png",
+    "av-archive/jekyll-src/assets/media_483756193751304268_1722118029.png",
+    "av-archive/jekyll-src/assets/media_483139632672972846_1721970327.png",
+    "jekyll-src/_notes/short note.md",
+    "jekyll-src/_notes/sillytavern.md",
+    "jekyll-src/_pages/index.md",
+    "jekyll-src/_pages/about.md",
+    "jekyll-src/_notes/meadr.md",
+    "jekyll-src/_notes/lahni.md",
+    "jekyll-src/_notes/keus.md"
+  ]
+}

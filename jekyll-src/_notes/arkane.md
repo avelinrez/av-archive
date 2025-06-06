@@ -32,6 +32,3 @@ backlinks:
 [Owain & Elowen](/av-archive/owain&elowen)'s: "Oho, what glacial wit! Wouldst thou believe he lacks a pulse under those icy barbs?" - "Tsk. Methinks 'tis merely a refined shell. The quiet ones _always_ boil beneath. A challenge, dear brother."
 
 
-
-### character card.
-<a href="downloads/Arkäne.png" download>Arkäne</a> (*Last modified: May 20, 2025*)

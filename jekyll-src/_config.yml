@@ -32,16 +32,14 @@ destination: ../docs
 include: ['_pages']
 exclude: ['_includes/notes_graph.json']
 
+minima:
+  include_assets: true
 
-# Build settings
-plugins_dir: _plugins
-
-plugins:
-  - jekyll-last-modified-at
 
 permalink: pretty
 
 relative_permalinks: false
+
 
 sass:
   sass_dir: _sass
