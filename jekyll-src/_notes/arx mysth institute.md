@@ -1,5 +1,5 @@
 ---
-title: arx mysth institute
+title: arx mysth institute.
 permalink: /arx
 last_modified_at: 2025-06-02
 preview: Renowned academy nestled in a valley protected by shifting Mysth wards

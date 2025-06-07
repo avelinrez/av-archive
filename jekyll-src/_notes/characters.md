@@ -1,5 +1,5 @@
 ---
-title: characters
+title: characters.
 permalink: /characters
 last_modified_at: 2025-06-03
 preview: List of characters by Av

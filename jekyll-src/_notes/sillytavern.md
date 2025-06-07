@@ -1,5 +1,5 @@
 ---
-title: sillytavern
+title: sillytavern.
 permalink: /sillytavern
 last_modified_at: 2025-06-03
 preview: Customizable chat front-end for interacting with AI characters locally

@@ -1,5 +1,5 @@
 ---
-title: aqulao
+title: aqulao.
 permalink: /aqulao
 last_modified_at: 2025-06-02
 preview: Close-knitted, isolated island where a meteorite fall to the land centuries ago

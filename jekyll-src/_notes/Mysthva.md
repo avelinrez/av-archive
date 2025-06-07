@@ -1,5 +1,5 @@
 ---
-title: mysthvá
+title: mysthvá.
 permalink: /mysthva
 last_modified_at: 2025-06-02
 preview: World where an ambient essence called Mysth fuels everything

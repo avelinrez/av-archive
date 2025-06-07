@@ -1,5 +1,5 @@
 ---
-title: lahni
+title: lahni.
 permalink: /lahni
 last_modified_at: 2025-06-04
 preview: Stern, nonchanter archer who also a Kalara chief's daughter

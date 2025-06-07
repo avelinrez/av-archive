@@ -1,5 +1,5 @@
 ---
-title: niam
+title: niam.
 permalink: /niam
 last_modified_at: 2025-06-04
 preview: Blind healer who travel Mysthvá to redeem her family's sin

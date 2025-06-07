@@ -1,5 +1,5 @@
 ---
-title: meadr
+title: meadr.
 permalink: /meadr
 last_modified_at: 2025-06-03
 preview: Sunshine-like kitsune demihuman student who keeps his true identity a secret
@@ -21,7 +21,7 @@ backlinks:
 }
 </style>
 
-<div style="font-family: Georgia, serif; font-size: 1em; color: #444; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Meadr Helsberg. Elyvon-born but hopelessly tangled in noble ancestry—distant cousin to that particular brooding Helsberg. My real expertise? Wandering into conversations at just the right time. I'm a history enthusiast, occasional festival-goer under dubious aliases, and, unfortunately, the only person who can coax Arkäne out of his research den without resorting to arson."</div> <span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Meadr</span>
+<div style="font-family: Georgia, serif; font-size: 1em; color: #808080; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Meadr Helsberg. Elyvon-born but hopelessly tangled in noble ancestry—distant cousin to that particular brooding Helsberg. My real expertise? Wandering into conversations at just the right time. I'm a history enthusiast, occasional festival-goer under dubious aliases, and, unfortunately, the only person who can coax Arkäne out of his research den without resorting to arson."</div> <span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Meadr</span>
 
 
 ### others' opinions.

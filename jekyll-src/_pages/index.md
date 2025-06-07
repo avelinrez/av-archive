@@ -8,7 +8,9 @@ last_modified_at: 2025-06-03T15:48:00
 
 # welcome, traveler.
 
-Wondering why you're here? Maybe take a quick look at this [short note](/av-archive/short-note). As a rule of thumb, any notes I write in this corner will mostly be in WIP state, which means I'll add or edit things whenever I want.
+Wondering why you're here? Maybe take a quick look at this [short note](/av-archive/short-note). 
+
+As a rule of thumb, any notes I write in this corner ==will mostly be in WIP state==, which means I'll add or edit things whenever I want.
 
 ### recently updated notes.
 

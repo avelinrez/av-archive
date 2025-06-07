@@ -1,5 +1,5 @@
 ---
-title: worlds
+title: worlds.
 permalink: /worlds
 last_modified_at: 2025-06-02
 preview: List of worlds by Av

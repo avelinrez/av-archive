@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jekyll-src/_notes/arkane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "arkane"
-            }
-          },
-          {
-            "id": "b909d0b858f15f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jekyll-src/_notes/sillytavern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sillytavern"
-            }
-          },
-          {
-            "id": "0107b712e406ea02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "jekyll-src/_pages/index.md",
                 "mode": "source",
                 "source": false
@@ -50,44 +22,49 @@
             }
           },
           {
-            "id": "3030bb03d1e1a6e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "jekyll-src/assets/Untitled154_20250604212228.png"
-              },
-              "icon": "lucide-image",
-              "title": "Untitled154_20250604212228"
-            }
-          },
-          {
-            "id": "8fcb9bd58c1c27cc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "jekyll-src/assets/twins20250506190521.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "twins20250506190521"
-            }
-          },
-          {
-            "id": "b05f3e0953baa801",
+            "id": "b909d0b858f15f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jekyll-src/_notes/sillytavern.md",
+                "file": "jekyll-src/_notes/no context chat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sillytavern"
+              "title": "no context chat"
+            }
+          },
+          {
+            "id": "0107b712e406ea02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_notes/to do list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do list"
+            }
+          },
+          {
+            "id": "3030bb03d1e1a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll-src/_notes/cards update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cards update"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,53 +192,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9a9b22d9ddd1209a",
+  "active": "0107b712e406ea02",
   "lastOpenFiles": [
-    "av-archive/jekyll-src/assets/js/theme.js",
-    "av-archive/jekyll-src/assets/css/styles.scss",
-    "av-archive/jekyll-src/_notes/worlds.md",
-    "av-archive/jekyll-src/_notes/sillytavern.md",
-    "av-archive/jekyll-src/_notes/short note.md",
-    "av-archive/jekyll-src/_notes/rhezua.md",
-    "av-archive/jekyll-src/_notes/owain and elowen.md",
-    "av-archive/jekyll-src/_notes/niam.md",
-    "av-archive/jekyll-src/_notes/Mysthva.md",
-    "av-archive/jekyll-src/_notes/meadr.md",
-    "av-archive/jekyll-src/_notes/characters.md",
-    "av-archive/jekyll-src/_notes/lahni.md",
-    "av-archive/jekyll-src/_notes/keus.md",
-    "av-archive/jekyll-src/_notes/dlecv and ylocv.md",
-    "av-archive/jekyll-src/_notes/dain.md",
-    "av-archive/jekyll-src/_notes/arx mysth institute.md",
-    "av-archive/jekyll-src/_notes/arkane.md",
-    "av-archive/jekyll-src/_notes/aqulao.md",
-    "av-archive/jekyll-src/_sass/_style.scss",
-    "av-archive/jekyll-src/_sass/_normalize.scss",
-    "av-archive/jekyll-src/_sass/_code.scss",
-    "av-archive/jekyll-src/_plugins/open_external_links_in_new_tab.rb",
-    "av-archive/jekyll-src/_plugins/markdown-highlighter.rb",
-    "av-archive/jekyll-src/_plugins/last_modified_at_generator.rb",
-    "av-archive/jekyll-src/_plugins/empty_front_matter_note_injector.rb",
-    "av-archive/jekyll-src/_plugins/embed_tweets.rb",
-    "av-archive/jekyll-src/_pages/about.md",
-    "av-archive/jekyll-src/_plugins/bidirectional_links_generator.rb",
-    "av-archive/jekyll-src/_pages/index.md",
-    "av-archive/jekyll-src/assets/Untitled53_20240621083923.png",
-    "av-archive/jekyll-src/assets/Untitled95_20240728102532.png",
-    "av-archive/jekyll-src/assets/Untitled154_20250604212228.png",
-    "av-archive/jekyll-src/assets/Untitled4_20250604192342.png",
-    "av-archive/jekyll-src/assets/Untitled3_20250506190521.png",
-    "av-archive/jekyll-src/assets/Untitled145.png",
-    "av-archive/jekyll-src/assets/twins20250506190521.jpg",
-    "av-archive/jekyll-src/assets/media_490551239640264575_1723737454.png",
-    "av-archive/jekyll-src/assets/media_483756193751304268_1722118029.png",
-    "av-archive/jekyll-src/assets/media_483139632672972846_1721970327.png",
-    "jekyll-src/_notes/short note.md",
-    "jekyll-src/_notes/sillytavern.md",
+    "docs/worlds.html",
+    "docs/to-do-list.html",
+    "docs/sillytavern.html",
+    "docs/short-note.html",
+    "docs/rhezua.html",
+    "docs/owain&elowen.html",
+    "docs/no-context-chat.html",
+    "docs/niam.html",
+    "docs/mysthva.html",
+    "docs/meadr.html",
+    "docs/lahni.html",
+    "docs/assets/twins20250506190521.jpg",
+    "docs/assets/media_490551239640264575_1723737454.png",
+    "docs/assets/media_483756193751304268_1722118029.png",
+    "docs/assets/media_483139632672972846_1721970327.png",
+    "docs/assets/media_483139455544039123_1721970245.png",
+    "docs/assets/media_483138294698387207_1721969978.png",
+    "docs/assets/media_473777821518734405_1719738303.jpg",
+    "docs/assets/media_473497501109353047_1719671849.webp",
+    "docs/assets/media_473497500810250224_1719684175.webp",
+    "docs/assets/media_1749034368.jpg",
     "jekyll-src/_pages/index.md",
-    "jekyll-src/_pages/about.md",
+    "jekyll-src/_notes/fun fact.md",
+    "jekyll-src/_notes/cards update.md",
+    "jekyll-src/_notes/no context chat.md",
+    "jekyll-src/_notes/group chat.md",
+    "jekyll-src/_notes/to do list.md",
+    "jekyll-src/_notes/owain and elowen.md",
+    "jekyll-src/_notes/short note.md",
+    "jekyll-src/_notes/aqulao.md",
+    "jekyll-src/_notes/worlds.md",
+    "jekyll-src/_notes/sillytavern.md",
+    "jekyll-src/_notes/rhezua.md",
+    "jekyll-src/_notes/niam.md",
+    "jekyll-src/_notes/mysthva.md",
     "jekyll-src/_notes/meadr.md",
     "jekyll-src/_notes/lahni.md",
-    "jekyll-src/_notes/keus.md"
+    "jekyll-src/_notes/keus.md",
+    "jekyll-src/_notes/dlecv and ylocv.md",
+    "jekyll-src/_notes/dain.md",
+    "jekyll-src/_notes/chats.md",
+    "jekyll-src/_notes/characters.md",
+    "jekyll-src/_notes/arx mysth institute.md",
+    "jekyll-src/_notes/arkane.md",
+    "rentry.org/NG_CharCard.md",
+    "av-archive/jekyll-src/_notes/worlds.md"
   ]
 }

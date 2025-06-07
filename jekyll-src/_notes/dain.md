@@ -1,5 +1,5 @@
 ---
-title: dain
+title: dain.
 permalink: /dain
 last_modified_at: 2025-06-03
 preview: Elusive, bone-collecting student who left little trace in people's memories
@@ -19,7 +19,7 @@ backlinks:
 }
 </style>
 
-<div style="font-family: Georgia, serif; font-size: 1em; color: #444; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Dain Alsaz. Of no particular significance. I write, bad poetry on good days. Rune studies and such, in between. Do pardon me if I forget name; it's nothing personal."</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Dain</span>
+<div style="font-family: Georgia, serif; font-size: 1em; color: #808080; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Dain Alsaz. Of no particular significance. I write, bad poetry on good days. Rune studies and such, in between. Do pardon me if I forget name; it's nothing personal."</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Dain</span>
 
 ### others' opinions.
 [Arkäne](/av-archive/arkane)'s: "Ah, the elusive ghost of Arx. One who has the peculiar habit of vanishing from memory the moment you turn your back. Most can't recall his face, but I suppose I have a marginally better memory. Or perhaps he’s just terrible at illusions."

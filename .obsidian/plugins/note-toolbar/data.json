@@ -12,16 +12,16 @@
   "keepPropsState": false,
   "onboarding": {},
   "recentFiles": [
-    "jekyll-src/_notes/arkane.md",
-    "jekyll-src/_notes/short note.md",
-    "jekyll-src/_notes/sillytavern.md",
+    "jekyll-src/_notes/to do list.md",
     "jekyll-src/_pages/index.md",
-    "jekyll-src/_pages/about.md",
-    "jekyll-src/_notes/meadr.md",
-    "jekyll-src/_notes/lahni.md",
-    "jekyll-src/_notes/keus.md",
-    "jekyll-src/_notes/dlecv and ylocv.md",
-    "jekyll-src/_notes/dain.md"
+    "jekyll-src/_notes/fun fact.md",
+    "jekyll-src/_notes/cards update.md",
+    "jekyll-src/_notes/no context chat.md",
+    "jekyll-src/_notes/group chat.md",
+    "jekyll-src/_notes/owain and elowen.md",
+    "jekyll-src/_notes/short note.md",
+    "jekyll-src/_notes/aqulao.md",
+    "jekyll-src/_notes/Untitled.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": true,
@@ -572,7 +572,7 @@
         {
           "uuid": "73eb38df-2a4c-45b9-90a5-1b298b3c1f37",
           "hasCommand": false,
-          "icon": "moon",
+          "icon": "sun",
           "inGallery": false,
           "label": "",
           "link": "",
@@ -633,7 +633,7 @@
           }
         }
       },
-      "updated": "2025-06-02T04:17:36.204Z"
+      "updated": "2025-06-06T13:18:58.642Z"
     }
   ],
   "version": 20250313.1,

@@ -1,5 +1,5 @@
 ---
-title: owain & elowen
+title: owain & elowen.
 permalink: /owain&elowen
 last_modified_at: 2025-06-03
 preview: Elven twin students with penchant of mischiefs and chaos
@@ -20,8 +20,8 @@ backlinks:
 }
 </style>
 
-<div style="font-family: Georgia, serif; font-size: 1em; color: #444; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Greetings, fair companions! I am Owain Eldrathyn, artificer of marvels, seeker of curiosities, and purveyor of splendid mischief—"</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Owain</span>
-<div style="font-family: Georgia, serif; font-size: 1em; color: #444; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"—And I, his ever-suffering twin, Elowen Eldrathyn, student of alchemical witchery and keeper of my brother's fragile sanity, the one who ensures his mischief doesn't get us both exiled from civilized society."</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Elowen</span>
+<div style="font-family: Georgia, serif; font-size: 1em; color: #808080; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Greetings, fair companions! I am Owain Eldrathyn, artificer of marvels, seeker of curiosities, and purveyor of splendid mischief—"</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Owain</span>
+<div style="font-family: Georgia, serif; font-size: 1em; color: #808080; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"—And I, his ever-suffering twin, Elowen Eldrathyn, student of alchemical witchery and keeper of my brother's fragile sanity, the one who ensures his mischief doesn't get us both exiled from civilized society."</div><span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Elowen</span>
 
 ### others' opinions.
 [Arkäne](/av-archive/arkane)'s: The famed matched set, I see. One creates whatever madness the other brews in the cauldron. Though I _suppose_ one of them at least acknowledges the lack of sanity present. Small mercies."

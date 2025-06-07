@@ -1,5 +1,5 @@
 ---
-title: dlėcv & ylōcv
+title: dlėcv & ylōcv.
 last_modified_at: 2025-06-04
 permalink: /twinmoons
 backlinks:

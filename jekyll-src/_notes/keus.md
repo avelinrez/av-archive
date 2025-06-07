@@ -1,5 +1,5 @@
 ---
-title: keus
+title: keus.
 permalink: /keus
 last_modified_at: 2025-06-04
 preview: 

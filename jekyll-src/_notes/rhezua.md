@@ -1,5 +1,5 @@
 ---
-title: rhezua
+title: rhezua.
 permalink: /rhezua
 last_modified_at: 2025-06-03
 preview: Proud and competent noble-born who wields grace as a blade
@@ -20,7 +20,7 @@ backlinks:
 }
 </style>
 
-<div style="font-family: Georgia, serif; font-size: 1em; color: #444; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Rhezua Okila. A name you may know, though I advise against assuming you understand its weight. I lend my talents to the study of Air Mysth, not idle gossip. If you seek favor, come with leverage. If you seek debate, come prepared. And if you mistake my patience for pliancy? That would be ... unwise."</div>
+<div style="font-family: Georgia, serif; font-size: 1em; color: #808080; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0;">"Rhezua Okila. A name you may know, though I advise against assuming you understand its weight. I lend my talents to the study of Air Mysth, not idle gossip. If you seek favor, come with leverage. If you seek debate, come prepared. And if you mistake my patience for pliancy? That would be ... unwise."</div>
 <span style="display: block; margin-top: 0.5em; text-align: right; color: #888;">– Rhezua</span>
 
 ### others' opinions.
